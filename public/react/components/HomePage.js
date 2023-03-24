@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import "../stylesheets/homepage.css";
-import Form from "./Form";
 
 export function HomePage({ items }) {
   const [featured, setFeatured] = useState([]);
