@@ -35,6 +35,7 @@
     "react-icons": "^4.8.0",
     "react-router-dom": "^6.9.0",
     "sequelize": "^6.30.0",
+    "sqlite3": "^5.1.6",
     "supertest": "^6.3.3"
   },
   "devDependencies": {
